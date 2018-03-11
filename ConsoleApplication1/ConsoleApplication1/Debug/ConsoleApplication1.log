@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\study\ксис\laba1\consoleapplication1\consoleapplication1\source.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\study\ксис\laba1\consoleapplication1\consoleapplication1\source.cpp(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ConsoleApplication1.vcxproj -> D:\Study\КСиС\Laba1\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Study\КСиС\Laba1\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
